@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kyaw Htet Thu
-### <div align="center"> A final-year Computer Science (Cybersecurity) student 👨‍💻, learning about security platform engineering 🚀</div>  
+### <div align="center"> A final-year Computer Science (Cybersecurity) student 👨‍💻</div>  
 - 🔭 I’m currently working on [Kubernetes Exploit Detection and Security Compliance using OPA](https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA)
 - 🌱 Expanding my expertise in Kubernetes and Open Policy Agent to make cloud-native environments safer and smarter.
 - ❓Always up for discussions about Kubernetes, platform engineering, and cutting-edge cybersecurity trends!  
