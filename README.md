@@ -6,6 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=htankhaishan&label=Profile%20views&color=0e75b6&style=flat" alt="htankhaishan" />
 <img src="https://tryhackme-badges.s3.amazonaws.com/1vcky.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1079668" style='border:none;'></iframe>
 
 ![Your Contribution Table](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htankhaishan&theme=github)
 ## My Skill Set  
