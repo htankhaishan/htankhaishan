@@ -7,7 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=htankhaishan&label=Profile%20views&color=0e75b6&style=flat" alt="htankhaishan" />
 <img src="https://tryhackme-badges.s3.amazonaws.com/1vcky.png" alt="Your Image Badge" />
 
-![Your Contribution Table](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htankhaishan&theme=github)
 ## My Skill Set  
 <table>
 <tr><td valign="top" width="33%">
