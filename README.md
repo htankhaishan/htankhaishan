@@ -1,12 +1,19 @@
 ## Hi there 👋 I'm Kyaw Htet Thu
 ### <div align="center"> A final-year Computer Science (Cybersecurity) student 👨‍💻</div>  
-- 🔭 I’m currently working on [Kubernetes Exploit Detection and Security Compliance using OPA](https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA)
+- 🔭 I'm currently working on [Kubernetes Exploit Detection and Security Compliance using OPA](https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA)
 - 🌱 Expanding my expertise in Kubernetes and Open Policy Agent to make cloud-native environments safer and smarter.
-- ❓Always up for discussions about Kubernetes, platform engineering, and cutting-edge cybersecurity trends!  
+- ❓ Always up for discussions about Kubernetes, platform engineering, and cutting-edge cybersecurity trends!  
 
 <img src="https://komarev.com/ghpvc/?username=htankhaishan&label=Profile%20views&color=0e75b6&style=flat" alt="htankhaishan" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/1vcky.png" alt="Your Image Badge" />
-<img src="https://www.hackthebox.eu/badge/image/730367" alt="Hack The Box Profile" class="htb-badge">
+
+<div align="center"> 
+  <a href="https://app.hackthebox.com/profile/730367" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/730367" alt="HackTheBox" style="height: 60px; width: auto;" />
+  </a>
+  <a href="https://tryhackme.com/p/1vcky" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/1vcky.png" alt="TryHackMe" style="height: 80px; width: auto;" />
+  </a>
+</div>
 
 ## My Skill Set  
 <table>
@@ -16,7 +23,6 @@
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" width="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" width="40" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" width="40" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" width="40" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="40" width="40" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="26" width="38" /></a>  
