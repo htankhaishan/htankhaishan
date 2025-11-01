@@ -6,6 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=htankhaishan&label=Profile%20views&color=0e75b6&style=flat" alt="htankhaishan" />
 <img src="https://tryhackme-badges.s3.amazonaws.com/1vcky.png" alt="Your Image Badge" />
+<img src="https://www.hackthebox.eu/badge/image/730367" alt="Hack The Box Profile" class="htb-badge">
 
 ## My Skill Set  
 <table>
