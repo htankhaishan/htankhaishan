@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Kyaw Htet Thu
-### <div align="center">Computer Science Graduate (Cybersecurity Major) | Cybersecurity Enthusiast 👨‍💻</div>  
+### <div align="center">Computer Science Graduate (Cybersecurity Major) | Platform Security Enthusiast 👨‍💻</div>  
 - 🔭 I'm currently working on [Kubernetes Exploit Detection and Security Compliance using OPA](https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA)
-- 🌱 Expanding my expertise in Kubernetes and Open Policy Agent to make cloud-native environments safer and smarter.
-- ❓ Always up for discussions about Kubernetes, platform engineering, and cutting-edge cybersecurity trends!  
+- 🌱 Developing skills in Terraform, Ansible, Kubernetes security, and detection engineering.
+- ❓ Open to discussions on platform security engineering, SOC platforms, and cloud security automation.  
 
 <img src="https://komarev.com/ghpvc/?username=htankhaishan&label=Profile%20views&color=0e75b6&style=flat" alt="htankhaishan" />
 
@@ -39,10 +39,13 @@
 ### CyberSec 
 <div align="center">   
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1280px-Kali-dragon-icon.svg.png?20211125065834" alt="Kali" height="40" width="40" /></a>
-<a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/183px-BurpSuite_Comunity_Edition.svg.png" alt="Burp Suite" height="40" width="40" /></a>  
-<a href="https://www.snort.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" alt="Snort" height="40" width="55" /></a>  
-<a href="https://owasp.org/" target="_blank"><img style="margin: 10px" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" alt="OWASP" height="40" width="40" /></a> 
+<a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/BurpSuite_logo.svg/1280px-BurpSuite_logo.svg.png?20241223105010" alt="Burp Suite" height="40" width="40" /></a>  
+<a href="https://wazuh.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wazuh-2016_2022-Logo.svg/640px-Wazuh-2016_2022-Logo.svg.png" alt="Wazuh" height="20" width="100" /></a>
+<a href="https://www.huntress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.builder.io/api/v1/image/assets%2F3eb6f92aedf74f109c7b4b0897ec39a8%2Fbf879a26d9994fd8b3b0d8878c9474f4?width=600&format=webp&quality=85" alt="Huntress" height="35" width="120" /></a>  
+<a href="https://suricata.io/" target="_blank"><img style="margin: 10px" src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="Suricata" height="40" width="55" /></a>  
+<a href="https://www.snort.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" alt="Snort" height="40" width="55" /></a>   
 <a href="https://misp-project.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/4134875?s=280&v=4" alt="MISP" height="40" width="40" /></a>  
+<a href="https://owasp.org/" target="_blank"><img style="margin: 10px" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" alt="OWASP" height="40" width="40" /></a> 
 </div>  
 
 </td><td valign="top" width="33%">
@@ -50,8 +53,7 @@
 ### Programming 
 <div align="center"> 
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" width="40" /></a> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" width="40" /></a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" width="40" /></a>
 </div>
 </td></tr></table>  
 <br/>  
