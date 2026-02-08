@@ -21,7 +21,7 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" width="40" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="Bash" height="50" width="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" width="40" /></a>
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="40" width="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" width="40" /></a>  
@@ -40,8 +40,8 @@
 <div align="center">   
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1280px-Kali-dragon-icon.svg.png?20211125065834" alt="Kali" height="40" width="40" /></a>
 <a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/BurpSuite_logo.svg/1280px-BurpSuite_logo.svg.png?20241223105010" alt="Burp Suite" height="40" width="40" /></a>  
-<a href="https://wazuh.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wazuh-2016_2022-Logo.svg/640px-Wazuh-2016_2022-Logo.svg.png" alt="Wazuh" height="20" width="100" /></a>
-<a href="https://www.huntress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.builder.io/api/v1/image/assets%2F3eb6f92aedf74f109c7b4b0897ec39a8%2Fbf879a26d9994fd8b3b0d8878c9474f4?width=600&format=webp&quality=85" alt="Huntress" height="35" width="120" /></a>  
+<a href="https://wazuh.com/" target="_blank"><img style="margin: 10px" src="https://wazuh.com/wp-content/themes/wazuh-v3/assets/images/trademark-and-brand-policy/Wazuh-logo-dark-backgroud.png" alt="Wazuh" height="40" width="100" /></a>
+<a href="https://www.huntress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.builder.io/api/v1/image/assets%2F3eb6f92aedf74f109c7b4b0897ec39a8%2Fbf879a26d9994fd8b3b0d8878c9474f4?width=600&format=webp&quality=85" alt="Huntress" height="31" width="120" /></a>  
 <a href="https://suricata.io/" target="_blank"><img style="margin: 10px" src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="Suricata" height="40" width="55" /></a>  
 <a href="https://www.snort.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Snort_ids_logo.png" alt="Snort" height="40" width="55" /></a>   
 <a href="https://misp-project.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/4134875?s=280&v=4" alt="MISP" height="40" width="40" /></a>  
